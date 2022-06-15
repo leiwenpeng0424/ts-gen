@@ -1,0 +1,2 @@
+# ts-gen
+Typescript generator
